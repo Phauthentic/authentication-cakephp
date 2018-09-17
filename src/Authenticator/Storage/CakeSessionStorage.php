@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Phautehntic\Authentication\Authenticator\Storage;
+namespace Phauthentic\Authentication\Authenticator\Storage;
 
 use Authentication\Authenticator\Storage\StorageInterface;
 use Cake\Http\Session;

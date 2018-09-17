@@ -1,6 +1,6 @@
 <?php
 
-namespace Phautehntic\Authentication\Test\TestCase;
+namespace Phauthentic\Authentication\Test\TestCase;
 
 use Cake\ORM\TableRegistry;
 use Cake\TestSuite\TestCase;

@@ -12,14 +12,14 @@
  * @since         1.0.0
  * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
-namespace Phautehntic\Authentication\Test\TestCase\View\Helper;
+namespace Phauthentic\Authentication\Test\TestCase\View\Helper;
 
 use ArrayObject;
 use Authentication\Identity\Identity;
 use Cake\Http\ServerRequest;
 use Cake\TestSuite\TestCase;
 use Cake\View\View;
-use Phautehntic\Authentication\View\Helper\IdentityHelper;
+use Phauthentic\Authentication\View\Helper\IdentityHelper;
 use RuntimeException;
 
 /**

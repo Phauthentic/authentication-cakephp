@@ -1,9 +1,9 @@
 <?php
-namespace Phautehntic\Authentication\Test\TestCase\Identifier\Resolver;
+namespace Phauthentic\Authentication\Test\TestCase\Identifier\Resolver;
 
 use Cake\Datasource\EntityInterface;
-use Phautehntic\Authentication\Identifier\Resolver\OrmResolver;
-use Phautehntic\Authentication\Test\TestCase\AuthenticationTestCase;
+use Phauthentic\Authentication\Identifier\Resolver\OrmResolver;
+use Phauthentic\Authentication\Test\TestCase\AuthenticationTestCase;
 
 class OrmResolverTest extends AuthenticationTestCase
 {

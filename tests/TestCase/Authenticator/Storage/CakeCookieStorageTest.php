@@ -1,12 +1,12 @@
 <?php
 
-namespace Phautehntic\Authentication\Test\TestCase\Authenticator;
+namespace Phauthentic\Authentication\Test\TestCase\Authenticator;
 
 use Cake\Http\Cookie\Cookie;
 use Cake\Http\Response;
 use Cake\Http\ServerRequestFactory;
 use Cake\TestSuite\TestCase;
-use Phautehntic\Authentication\Authenticator\Storage\CakeCookieStorage;
+use Phauthentic\Authentication\Authenticator\Storage\CakeCookieStorage;
 use Psr\Http\Message\ResponseInterface;
 
 class CakeCookieStorageTest extends TestCase

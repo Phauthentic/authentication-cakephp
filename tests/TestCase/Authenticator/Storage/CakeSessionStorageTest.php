@@ -1,12 +1,12 @@
 <?php
 
-namespace Phautehntic\Authentication\Test\TestCase\Authenticator\Storage;
+namespace Phauthentic\Authentication\Test\TestCase\Authenticator\Storage;
 
 use ArrayObject;
 use Cake\Http\Response;
 use Cake\Http\ServerRequestFactory;
 use Cake\TestSuite\TestCase;
-use Phautehntic\Authentication\Authenticator\Storage\CakeSessionStorage;
+use Phauthentic\Authentication\Authenticator\Storage\CakeSessionStorage;
 use Psr\Http\Message\ResponseInterface;
 
 class CakeSessionStorageTest extends TestCase

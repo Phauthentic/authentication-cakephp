@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Phautehntic\Authentication\Identifier\Resolver;
+namespace Phauthentic\Authentication\Identifier\Resolver;
 
 use ArrayAccess;
 use Authentication\Identifier\Resolver\ResolverInterface;
