@@ -13,7 +13,7 @@
  */
 namespace Phauthentic\Authentication\View\Helper;
 
-use Authentication\Identity\IdentityInterface;
+use Phauthentic\Authentication\Identity\IdentityInterface;
 use Cake\Utility\Hash;
 use Cake\View\Helper;
 use RuntimeException;

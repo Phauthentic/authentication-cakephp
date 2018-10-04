@@ -3,7 +3,7 @@ declare(strict_types=1);
 namespace Phauthentic\Authentication\Identifier\Resolver;
 
 use ArrayAccess;
-use Authentication\Identifier\Resolver\ResolverInterface;
+use Phauthentic\Authentication\Identifier\Resolver\ResolverInterface;
 use Cake\Core\InstanceConfigTrait;
 use Cake\ORM\Locator\LocatorAwareTrait;
 
@@ -27,8 +27,6 @@ class OrmResolver implements ResolverInterface
         'userModel' => 'Users',
         'finder' => 'all',
     ];
-
-    protected $_config;
 
     /**
      * Constructor.

@@ -15,7 +15,7 @@
 namespace Phauthentic\Authentication\Test\TestCase\View\Helper;
 
 use ArrayObject;
-use Authentication\Identity\Identity;
+use Phauthentic\Authentication\Identity\Identity;
 use Cake\Http\ServerRequest;
 use Cake\TestSuite\TestCase;
 use Cake\View\View;

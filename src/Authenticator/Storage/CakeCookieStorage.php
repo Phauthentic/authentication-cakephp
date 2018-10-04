@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Phauthentic\Authentication\Authenticator\Storage;
 
-use Authentication\Authenticator\Storage\StorageInterface;
+use Phauthentic\Authentication\Authenticator\Storage\StorageInterface;
 use Cake\Http\Cookie\Cookie;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
