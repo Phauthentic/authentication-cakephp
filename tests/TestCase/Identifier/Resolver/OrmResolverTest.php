@@ -3,9 +3,9 @@ namespace Phauthentic\Authentication\Test\TestCase\Identifier\Resolver;
 
 use Cake\Datasource\EntityInterface;
 use Phauthentic\Authentication\Identifier\Resolver\OrmResolver;
-use Phauthentic\Authentication\Test\TestCase\AuthenticationTestCase;
+use Phauthentic\Authentication\Test\TestCase\CakeAuthenticationTestCase;
 
-class OrmResolverTest extends AuthenticationTestCase
+class OrmResolverTest extends CakeAuthenticationTestCase
 {
     public function testFindDefault()
     {
